@@ -1,0 +1,11 @@
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\bin\Release\ArrangeFormatOfLIDCTool.exe.config
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\bin\Release\ArrangeFormatOfLIDCTool.exe
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\bin\Release\ArrangeFormatOfLIDCTool.pdb
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\bin\Release\Dicom.dll
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\bin\Release\Dicom.pdb
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\obj\Release\ArrangeFormatOfLIDCTool.Form1.resources
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\obj\Release\ArrangeFormatOfLIDCTool.Properties.Resources.resources
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\obj\Release\ArrangeFormatOfLIDCTool.csproj.GenerateResource.Cache
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\obj\Release\ArrangeFormatOfLIDCTool.exe
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\obj\Release\ArrangeFormatOfLIDCTool.pdb
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ArrangeFormatOfLIDCTool\obj\Release\ArrangeFormatOfLIDCTool.csprojResolveAssemblyReference.cache

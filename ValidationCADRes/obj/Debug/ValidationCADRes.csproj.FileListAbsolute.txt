@@ -1,0 +1,9 @@
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\bin\Debug\ValidationCADRes.exe.config
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\bin\Debug\ValidationCADRes.exe
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\bin\Debug\ValidationCADRes.pdb
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\obj\Debug\ValidationCADRes.csprojResolveAssemblyReference.cache
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\obj\Debug\ValidationCADRes.Form1.resources
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\obj\Debug\ValidationCADRes.Properties.Resources.resources
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\obj\Debug\ValidationCADRes.csproj.GenerateResource.Cache
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\obj\Debug\ValidationCADRes.exe
+D:\VCSSProject\ArrangeFormatOfLIDCTool\ValidationCADRes\obj\Debug\ValidationCADRes.pdb
